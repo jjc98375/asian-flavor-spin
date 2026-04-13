@@ -1,0 +1,38 @@
+====================================
+GOOGLE PLAY STORE LISTING
+====================================
+
+APP NAME: Asian Flavor Spin
+
+SHORT DESCRIPTION (80 chars max):
+Spin the wheel, pick a cuisine, and find the best Asian restaurants near you!
+
+FULL DESCRIPTION:
+Can't decide where to eat? Let the wheel decide!
+
+Asian Flavor Spin makes choosing your next meal fun and easy. Spin the roulette wheel to randomly pick an Asian cuisine, browse popular dishes, and discover top-rated restaurants near you with photos, reviews, and ratings from both Yelp and Google.
+
+HOW IT WORKS:
+1. Spin the wheel to randomly pick a cuisine - Korean, Japanese, Chinese, Vietnamese, or Thai
+2. Browse popular dishes for your selected cuisine
+3. Discover nearby restaurants sorted by combined Yelp + Google ratings
+4. View detailed restaurant info with photos, hours, reviews, and directions
+
+FEATURES:
+- Fun roulette wheel to pick your cuisine
+- 100 hand-picked popular dishes across 5 Asian cuisines
+- Restaurant photos, ratings, reviews, and hours
+- Combined Yelp + Google ratings for the most accurate scores
+- Map view to see restaurants near you
+- Full-screen photo gallery with pinch-to-zoom
+- Get directions or call restaurants directly
+- Spin again anytime if you want a different pick
+
+Whether you're eating solo, with friends, or on a date night, Asian Flavor Spin takes the stress out of choosing where to eat. Just spin and go!
+
+CATEGORY: Food & Drink
+CONTENT RATING: Everyone
+CONTACT EMAIL: (your email address)
+
+TAGS/KEYWORDS:
+restaurants, food, asian food, korean food, japanese food, chinese food, vietnamese food, thai food, restaurant finder, where to eat, food spinner, cuisine roulette
