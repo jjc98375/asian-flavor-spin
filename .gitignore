@@ -1,0 +1,27 @@
+.superpowers/
+.omc/
+.DS_Store
+
+# Build outputs
+what_to_eat/build/
+what_to_eat/.dart_tool/
+what_to_eat/.flutter-plugins
+what_to_eat/.flutter-plugins-dependencies
+
+# Android secrets
+what_to_eat/android/.gradle/
+what_to_eat/android/keystore/
+what_to_eat/android/key.properties
+what_to_eat/android/local.properties
+
+# iOS
+what_to_eat/ios/Pods/
+what_to_eat/ios/.symlinks/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Misc
+*.log
